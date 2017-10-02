@@ -1,0 +1,4 @@
+epics_casnooper_extension: 
+  url: "https://www.aps.anl.gov/epics/download/extensions/caSnooper2_1_2_3.tar.gz"
+  unarchived_name: "caSnooper2_1_2_3"
+  release: false
